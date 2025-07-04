@@ -62,6 +62,5 @@ git clone --branch jazzy https://github.com/ros2/geometry2.git
 git clone --branch ros2 https://github.com/ros/bond_core.git
 git clone --branch ros2 https://github.com/ros/angles.git
 git clone --branch ros2-jazzy https://github.com/ros/diagnostics.git
-git clone --branch 4.5.x https://github.com/BehaviorTree/BehaviorTree.CPP.git
-git clone https://github.com/ros-geographic-info/geographic_info.git
+git clone --branch 4.5.x https://github.com/BehaviorTree/BehaviorTree.CPP.git behaviortree_cpp
 ```
